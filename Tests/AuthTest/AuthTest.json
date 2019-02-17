@@ -1,0 +1,13 @@
+﻿{
+	"phone":"",
+	"first_name":"Иван",
+	"last_name":"Иванов",
+	"birthday":"01.01.2000",
+	"client_id":"",
+	"client_secret":"",
+	"sex":"2",
+	"password":"123123Aa",
+	"voice":"0",
+	"sid":"",
+    "test_mode":"1"  
+}
